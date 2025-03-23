@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import { questions } from "@/connect";
   import QuizSection from "../components/QuizSection";
   
